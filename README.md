@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diwaker Yadav
 
-🚀 **Aspiring Data Engineer | Machine Learning Engineer | Data Scientist**
+🚀 **Aspiring Data Scientist  | Machine Learning Engineer | Data Engineer**
 
 I build **data-driven systems and scalable ML solutions** — from raw data pipelines to production-ready models.
 
