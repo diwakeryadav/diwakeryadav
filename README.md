@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Diwaker Yadav
+# 👋 Hi, I'm Diwaker Yadav 
 
 🚀 **Aspiring Data Scientist  | Machine Learning Engineer**
 
@@ -8,7 +8,7 @@ I build **data-driven systems and scalable ML solutions** — from raw data pipe
 
 ## 💡 About Me
 
-* 🔍 Passionate about **Data Engineering, Machine Learning & AI Systems**
+* 🔍 Passionate about ** Machine Learning & AI Systems and Data Engineering**
 * 🧠 Strong foundation in **Python, Statistics, Machine Learning Models & Algorithms**
 * ⚙️ Currently learning **MLOps, System Design & Scalable Data Pipelines**
 * 🎯 Goal: Become a **top-tier Data/ML Engineer**
@@ -82,7 +82,3 @@ I build **data-driven systems and scalable ML solutions** — from raw data pipe
 * 💼 LinkedIn: www.linkedin.com/in/diwakeryadav
 
 ---
-
-## ⚡ Fun Fact
-
-I don’t just build models — I build **systems that make models useful in the real world.**
