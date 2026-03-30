@@ -74,7 +74,7 @@ I build **data-driven systems and scalable ML solutions** — from raw data pipe
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diwakeryadav\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://nice-readme.vercel.app/github-stats?username=diwakeryadav)
 
 ---
 
