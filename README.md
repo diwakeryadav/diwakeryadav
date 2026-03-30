@@ -9,9 +9,9 @@ I build **data-driven systems and scalable ML solutions** — from raw data pipe
 ## 💡 About Me
 
 * 🔍 Passionate about **Data Engineering, Machine Learning & AI Systems**
-* 🧠 Strong foundation in **Python, Statistics & Algorithms**
+* 🧠 Strong foundation in **Python, Statistics, Machine Learning Models & Algorithms**
 * ⚙️ Currently learning **MLOps, System Design & Scalable Data Pipelines**
-* 🎯 Goal: Become a **top-tier Data/ML Engineer (MAANG-level)**
+* 🎯 Goal: Become a **top-tier Data/ML Engineer**
 
 ---
 
@@ -19,11 +19,11 @@ I build **data-driven systems and scalable ML solutions** — from raw data pipe
 
 ### 👨‍💻 Programming
 
-`Python` `SQL` `C++`
+`Python` `SQL`
 
 ### 📊 Data Science & ML
 
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `huggingface` `tensorflow`
 
 ### ⚙️ Data Engineering
 
