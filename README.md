@@ -72,9 +72,7 @@ I build **data-driven systems and scalable ML solutions** — from raw data pipe
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://nice-readme.vercel.app/github-stats?username=diwakeryadav)
+![GitHub stats](https://github-readme-stats-xxxxx.vercel.app/api?username=diwakeryadav&show_icons=true&theme=tokyonight)
 
 ---
 
