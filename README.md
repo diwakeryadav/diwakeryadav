@@ -1,84 +1,64 @@
-# 👋 Hi, I'm Diwaker Yadav 
+# Hi, I'm Diwaker Yadav
 
-🚀 ** Data Scientist  | Machine Learning Engineer**
+**ML Engineer · NLP Research · Generative AI · ML Systems**
 
-I build **data-driven systems and scalable ML solutions** — from raw data pipelines to production-ready models.
+I build and study machine learning systems, with a focus on **transformers, language models, retrieval systems, and reliable ML infrastructure**.
 
----
+My work spans:
 
-## 💡 About Me
+* Transformer-based NLP research with BERT and XLNet
+* RAG and local LLM systems
+* ML experimentation and evaluation
+* Data and inference pipelines
+* Model serving and monitoring
+* Python-based ML infrastructure
 
-* 🔍 Passionate about ** Machine Learning & AI Systems and Data Engineering**
-* 🧠 Strong foundation in **Python, Statistics, Machine Learning Models & Algorithms**
-* ⚙️ Currently learning **MLOps, System Design & Scalable Data Pipelines**
-* 🎯 Goal: Become a **top-tier Data/ML Engineer**
+## Research Interests
 
----
+* Language modeling
+* Transformer architectures
+* Tokenization
+* Efficient inference and training
+* Representation learning
+* Retrieval and reasoning
+* ML systems and evaluation
 
-## 🛠️ Tech Stack
+## Selected Work
 
-### 👨‍💻 Programming
+### Transformer Research
 
-`Python` `SQL`
+Experiments with transformer architectures, training dynamics, tokenization, and evaluation.
 
-### 📊 Data Science & ML
+### Secure RAG Inference Platform
 
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `huggingface` `tensorflow`
+A fully local document intelligence system using FastAPI, Hugging Face embeddings, ChromaDB, Ollama, and React.
 
-### ⚙️ Data Engineering
+### Enterprise ML Platform
 
-`ETL Pipelines` `Airflow` `PySpark` `Kafka (learning)`
+End-to-end ML system covering validation, training, serving, monitoring, explainability, and testing.
 
-### 🚀 MLOps & Deployment
+## Technical Stack
 
-`Docker` `Flask` `MLflow (learning)`
+**Languages:** Python, SQL
 
-### 🗄️ Databases
+**ML:** PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM
 
-`PostgreSQL` `MySQL`
+**NLP / GenAI:** Transformers, Hugging Face, BERT, XLNet, RAG, LangChain, LangGraph, PEFT
 
----
+**Systems:** FastAPI, Docker, MLflow, Pytest, Git
 
-## 📌 Featured Projects
+## Current Focus
 
-### 🔹 End-to-End ML Pipeline
+Building deeper expertise in:
 
-* Built a complete ML system: **data ingestion → preprocessing → training → deployment**
-* Deployed model using **Flask API + Docker**
-* Focus: **Scalability & reproducibility**
+* Transformer internals
+* Language model training
+* Tokenization
+* ML systems
+* Distributed training
+* Model evaluation
+* AI safety and reliability
 
----
+## Links
 
-### 🔹 Data Pipeline Project
-
-* Designed ETL pipeline using **Python + SQL**
-* Implemented **data validation & transformation**
-* Focus: **data quality & automation**
-
----
-
-### 🔹 Exploratory Data Analysis (EDA)
-
-* Performed deep analysis on real-world datasets
-* Extracted **business insights using visualization & statistics**
-
----
-
-## 📈 What I’m Currently Working On
-
-* ⚡ Building **real-time data pipelines (Kafka + Spark)**
-* 🤖 Learning **ML model deployment at scale**
-* 🧪 Strengthening **system design for ML systems**
-
----
-
-![GitHub stats](https://github-readme-stats-xxxxx.vercel.app/api?username=diwakeryadav&show_icons=true&theme=tokyonight)
-
----
-
-## 🤝 Let's Connect
-
-* 📧 Email: [diwaker.yadav27@gmail.com](mailto:diwaker.yadav27@gmail.com)
-* 💼 LinkedIn: www.linkedin.com/in/diwakeryadav
-
----
+[GitHub](https://github.com/diwakeryadav) · [LinkedIn](https://www.linkedin.com/in/diwakeryadav/)
